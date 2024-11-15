@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tejas
 - 👀 I’m interested in Cybersecurity, Machine Learning and AI 
-- 🌱 I’m currently learning Microsoft Azure
-- 💞️ I’m looking to collaborate on Projects Based on ML/AI
+- 🌱 I’m currently pursuing a master's in Cybersecurity at UMBC.
+- 💞️ I love working on research projects, am currently conducting formal method analysis of SecureDNA protocol, and am looking forward to collaborating on Projects Based on AI in Cybersecurity.
 
 ![Panda](https://c.tenor.com/HjWiWdQbvd0AAAAM/cute-bear.gif)
 <!---
